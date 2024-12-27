@@ -1,0 +1,11 @@
+[1227/205529.799:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 1
+[1227/205529.853:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 1
+[1227/205716.244:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 475
+[1227/205716.244:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 477
+[1227/205716.244:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 479
+[1227/205716.244:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 481
+[1227/205716.459:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 483
+[1227/205716.459:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 485
+[1227/205716.459:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 487
+[1227/205716.459:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 489
+[1227/205728.872:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
